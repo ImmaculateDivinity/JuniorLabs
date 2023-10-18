@@ -1,0 +1,6 @@
+[requires]
+SDL2/2.0.14@bincrafters/stable
+imgui/1.85
+
+[generators]
+cmake
