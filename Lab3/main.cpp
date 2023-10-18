@@ -65,7 +65,7 @@ int main() {
                 }
                 selectionSort(test, 5);
                 int index;
-                cout << "After sorting from smallest to largest, the scores are: ";
+                cout << "After sorting from smallest to largest, the scores are: " << endl;
                 for (index = 0; index < 5; index++)
                 {
                     cout << test[index] << " ";
